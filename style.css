@@ -1,6 +1,10 @@
-body{
+body {
+    font-family: 'Roboto', sans-serif;
     text-align: center;
 }
-h1{
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
     color: blueviolet;
 }
